@@ -73,7 +73,7 @@ Some languages which people suggest frequently for new programmers are:
 * [VB.net](http://msdn.microsoft.com/en-us/vstudio/hh388573.aspx)
     * Designed by Microsoft, specifically targeting the Windows operating system
     * Usable on other operating systems __sometimes__ via workarounds such as compat. layers like Wine or Mono.
-    * __Compiled__, so it's fairly fast
+    * __Compiled to IL code__, so whilst fast, it's not Native Fast (TM). ([Source](http://stackoverflow.com/questions/6002955/visual-basic-net-compiled-or-interpreted))
     * In my opinion, a poor choice for a first language
     * The community (in my opinion) is alright. Not as amazing as Python, not quite lackluster like PHP; somewhere in-between
 * [Java](http://docs.oracle.com/javase/tutorial/java/)
