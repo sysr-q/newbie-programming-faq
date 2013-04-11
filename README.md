@@ -1,9 +1,6 @@
 Newbie Programming FAQ
 ======================
 
-Are you new to programming? Has something spurred your mind into `I want to make cool things!` mode?  
-Well look no further, this should answer some of the common questions that we get in the programming sections of various sites.
-
 ## Note:
 
 ### Hey, that seems a bit biased!
