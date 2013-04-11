@@ -92,3 +92,10 @@ Sure, it works for some people if they're either working through a book which te
 Start programming because you want to have tools under your belt to help with various problems, not because you think you can make money, or get fame via it.
 
 If you play sport because you enjoy it, getting sponsorship from a large group is great! Money, fame, all of that; but if you play sport purely because you want money, fame or anything related, you're just going to become disappointed when it inevitably doesn't work out.
+
+## Hey, I need help making the next Facebook, Twitter or (CURRENT FAD HERE)!
+Sorry to say, but that's probably not going to just happen. Many of the larger websites we use these days started up years ago when they were fresh ideas.  
+Microblogging, sharing videos or sending pictures? That's all been done time and time again now; so it's hard to get your idea picked up by heaps of users.
+
+You're certainly free to create your own version of whatever website you so desire, but don't get too disappointed when it's not used by millions of users daily.  
+It takes time for a new idea, or an improvement over old projects to catch on, if they ever do; Don't lose hope if you're really interested in it, but don't stress if you're not instantly picked up and gain the usage Facebook does.
