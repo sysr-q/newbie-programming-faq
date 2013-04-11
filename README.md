@@ -5,12 +5,14 @@ Are you new to programming? Has something spurred your mind into `I want to make
 Well look no further, this should answer some of the common questions that we get in the programming sections of various sites.
 
 ## Note:
-### What's this `HF` you keep mentioning?
-That's not important; in short, it's a community of sorts where users are under the strange disillusion that they're _hackers_ (in the non-conventional media sense of the word) and that making another stupid clone of the same scripts will make them respected users.  
-You can also pay the owner of the website lots of money to get various ranks, which in turn gets users more respect (for reasons unknown to myself), and the power to abuse the reputation point system.
+
+### Hey, that seems a bit biased!
+What, me? Writing a biased FAQ guide? I never!  
+Well, you're probably right. I'm not the ultimate resource for everything. I'm only writing from what I know personally, or what I've researched.  
+If you disagree with something, point it out and I'll do more research on that topic, or send in a pull request with corrections and we'll see what we can work out.
 
 ### How do you know what questions are commonly asked?
-Good question; it's because I frequent many of the programming sections (`Coding and Programming`, `PHP` and `Python` mostly, with stops into `.NET languages`, `Java` and `Batch, Bash & CLI`) on HF.  
+Good question; it's because I frequent many of the programming sections (`Coding and Programming`, `PHP` and `Python` mostly, with stops into `.NET languages`, `Java` and `Batch, Bash & CLI`) on various sites.  
 This is compiled from the many questions that I come across daily.  
 __Every day__ these threads are popping up in the various sections, and they're just a nuisance.
 
@@ -83,3 +85,13 @@ Some languages which people suggest frequently for new programmers are:
     * __Interpreted__ by the JVM (Java Virtual Machine). It's not quite as slow as an interpreted language, but not quite as fast as a compiled language.
     * Used in many enterprise level projects, so an understanding of it can't really hurt anyone.
     * The community around Java is fairly nice, and as per PHP, StackOverflow is a great place for Java things
+
+## I want to learn to program to make a game, RAT, operating system, or some other large project.
+Stop right there, criminal scum!  
+Whilst sometimes it's alright to start learning a programming language with a large project in your horizons, that's not a great way to learn initially.  
+From my personal experiences, if you try to learn to program purely to complete a large project (which might take hundreds of man hours from a professional firm) you'll get sick and tired of programming fairly quickly, and burn out.
+
+Sure, it works for some people if they're either working through a book which teaches you programming concepts whilst also working towards a game, or they're already a programmer; often times it just leads to sadness.  
+Start programming because you want to have tools under your belt to help with various problems, not because you think you can make money, or get fame via it.
+
+If you play sport because you enjoy it, getting sponsorship from a large group is great! Money, fame, all of that; but if you play sport purely because you want money, fame or anything related, you're just going to become disappointed when it inevitably doesn't work out.
