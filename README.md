@@ -35,3 +35,51 @@ I published this on a git repo specifically so that the community can join in an
 
 With that in mind, let's get straight to it!
 **********
+_For now, I've split this into sections for general FAQs and language specific ones._
+
+# General FAQs
+
+## I'm new, which language is best?
+There isn't particularly a _best_ language in any sense. Some are more suited to a particular task than another.  
+Think of programming as a being a carpenter, and the languages are your tools. Sure, you can hammer in a nail with a spanner, but why would you when you've got a perfectly good hammer right there?
+
+What I'm saying is, there isn't a _best_, there's just _preferred_ languages. Some people are biased because of their love for certain languages (like my love for Python), but in general, you pick the language which works best for your current project or requirements.
+
+Some languages which people suggest frequently for new programmers are:
+
+* [Python](https://python.org)
+    * A beautifully written all round language, which excels in scripting
+    * __Interpreted__, so definitely not the fastest language out
+    * Usable for for just about anything:
+        * Web projects (with `Flask`, `Django` or others)
+        * Servers (with `Twisted`, `gevent` or others)
+        * Web crawlers (with `requests` and `urllib(2)`)
+    * A __gigantic__ amount of modules available online, easily installable via [PyPI](https://pypi.python.org)
+    * Has an __amazing__ community available
+* [Ruby](https://ruby-lang.org)
+    * Designed to be human readable, which it definitely achieves
+    * Easy to read, easy to write, easy to distribute and just a nice language to work in
+    * __Interpreted__,  so definitely not the fastest language out
+    * Usable for just about anything, with similar libraries available as Python
+    * Has an __amazing__ community available
+* [PHP](https://php.org)
+    * Designed by a man who self-describes as a man who ["hates programming, but loves solving problems"](http://en.wikiquote.org/wiki/Rasmus_Lerdorf)
+    * Wide support, since it's got interpreters out the wazoo for most web servers
+    * Has lots of gotchas and caveats, as documented in [PHP: A fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) by [@eevee](https://github.com/eevee)
+    * __Interpreted__, so it's slow as all heck
+    * Probably a poor choice for a first language
+    * Interfaces with HTTP quite well, since it's basically designed for web applications
+    * Not really usable for anything but websites
+    * The community is somewhat lacking, but StackOverflow is a good place for PHP stuff
+* [VB.net](http://msdn.microsoft.com/en-us/vstudio/hh388573.aspx)
+    * Designed by Microsoft, specifically targeting the Windows operating system
+    * Usable on other operating systems __sometimes__ via workarounds such as compat. layers like Wine or Mono.
+    * __Compiled__, so it's fairly fast
+    * In my opinion, a poor choice for a first language
+    * The community (in my opinion) is alright. Not as amazing as Python, not quite lackluster like PHP; somewhere in-between
+* [Java](http://docs.oracle.com/javase/tutorial/java/)
+    * Object oriented to boot.
+    * Comes with an amazing amount of getters and setters (whether you enjoy this is personal preference)
+    * __Interpreted__ by the JVM (Java Virtual Machine). It's not quite as slow as an interpreted language, but not quite as fast as a compiled language.
+    * Used in many enterprise level projects, so an understanding of it can't really hurt anyone.
+    * The community around Java is fairly nice, and as per PHP, StackOverflow is a great place for Java things
