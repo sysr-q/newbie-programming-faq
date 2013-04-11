@@ -29,6 +29,9 @@ What should we do when that happens? You can do a variety of things, here's a fe
 Don't worry, newbies often take a bit of nudging to get them pointed in the right direction!  
 If you just follow the steps above, and they're continuously provided with the same steps time and time again, it's bound to sink in!
 
+### What should I do if I've got ideas or questions that you don't cover?
+Open up an issue on the GitHub repository, or send in a pull request.  
+I published this on a git repo specifically so that the community can join in and help make this guide complete and informative.
 
 With that in mind, let's get straight to it!
 **********
