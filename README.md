@@ -3,6 +3,7 @@ Newbie Programming FAQ
 
 [google]: https://google.com "The ultimate resource!"
 [github]: https://github.com "Social programming"
+[wikipedia]: https://en.wikipedia.org
 
 ## Note:
 
@@ -70,6 +71,27 @@ If you use PHP, [GitHub][github] is one of the best places (in my opinion) to fi
 
 # General FAQs
 
+## Which editor should I use?
+Most of the time, this will be met with responses from a few different people, which I'll run over here:
+
+### The Super Do-It-All IDE User (Extreme #1)
+These people depend (usually) on a flat out, amazing feature-packed IDE, and they swear by it.  
+__"If you don't use an IDE,"__, they'll say, __"you're missing out!"__
+
+### The Super Minimalist (Extreme #2)
+These people will swear by nothing more than a command line __vim__ or __Emacs__ setup.  
+__"Why would you need anything else?"__, they ask.  
+They're power users, and feel right at home on a command line, navigation with their favourite _hjkl_ keys, throwing out more commands than you can make sense of.
+
+### The In-between
+They'll jump between the two extremes, or settle somewhere in the middle.  
+Commonly seen using something like _Notepad++_, _Sublime Text 2_ or their GNU/Linux default editor (Geany, Kate, etc).
+
+The truth of the matter is, __it's entirely up to you__! Nobody can tell you what is best; it's like a car, if you think about it.  
+One man might swear by the Porsche, another will say that if you need more than a 2005 Honda you're stark mad, with someone else just saying they drive whatever works.
+
+Try out a few, and really have a feel around. You might be surprised what you click with.
+
 ## I'm new, which language is best?
 There isn't particularly a _best_ language in any sense. Some are more suited to a particular task than another.  
 Think of programming as a being a carpenter, and the languages are your tools. Sure, you can hammer in a nail with a spanner, but why would you when you've got a perfectly good hammer right there?
@@ -84,7 +106,7 @@ Some languages which people suggest frequently for new programmers are:
     * Usable for for just about anything:
         * Web projects (with `Flask`, `Django` or others)
         * Servers (with `Twisted`, `gevent` or others)
-        * Web crawlers (with `requests` and `urllib(2)`)
+        * Web crawlers (with `requests` and `urllib` (plus `urllib2`))
     * A __gigantic__ amount of modules available online, easily installable via [PyPI](https://pypi.python.org)
     * Has an __amazing__ community available
 * [Ruby](https://ruby-lang.org)
@@ -131,3 +153,17 @@ Microblogging, sharing videos or sending pictures? That's all been done time and
 
 You're certainly free to create your own version of whatever website you so desire, but don't get too disappointed when it's not used by millions of users daily.  
 It takes time for a new idea, or an improvement over old projects to catch on, if they ever do; Don't lose hope if you're really interested in it, but don't stress if you're not instantly picked up and gain the usage Facebook does.
+
+**********
+
+# Glossary
+
+* `IDE` - __Integrated Development Environment__
+    * _An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger._ (from [Wikipedia][wikipedia])
+    * Examples are: Eclipse, NetBeans, Cloud9, Visual Studio
+* `foo`, `bar`, `baz` - Placeholders for developers!
+    * These are just key words which are often used in code snippets, used as place holders. They signify things which should be replaced with actual variables to achieve whatever the purpose of the snippet is.
+    * Sometimes they're variable names, sometimes they're string values, and sometimes they're aliens - well not really.
+* `regex` - Regular Expressions
+    * _A regular expression is a specific pattern that provides concise and flexible means to "match" (specify and recognize) strings of text, such as particular characters, words, or patterns of characters._ (from [Wikipedia][wikipedia])
+    * Examples are: `^#([a-fA-F0-9]{3}|[a-fA-F0-9]{6})$`, `(?:[^/]+)/$`
