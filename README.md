@@ -1,6 +1,9 @@
 Newbie Programming FAQ
 ======================
 
+[google]: https://google.com "The ultimate resource!"
+[github]: https://github.com "Social programming"
+
 ## Note:
 
 ### Hey, that seems a bit biased!
@@ -33,8 +36,37 @@ Open up an issue on the GitHub repository, or send in a pull request.
 I published this on a git repo specifically so that the community can join in and help make this guide complete and informative.
 
 With that in mind, let's get straight to it!
+
 **********
+
 _For now, I've split this into sections for general FAQs and language specific ones._
+
+# Tips and Tricks
+
+## How do I do X or Y with this language?
+Have you checked [Google][google]? Seriously, that is the single best resource for anything. Hell, you have the entire __internet__ at your disposal!
+
+For example:  
+Suppose that I want to split a sentence into pieces (on spaces) and see if any of the words are `newbie`, using Python, I might search:
+
+* `python split string on space`
+* `python check if string in sentence`
+
+These would probably lead me to the Python core documentation, which would give clear and concise examples on each of these.
+
+## Can you guys help me learn?
+The only person who can help you learn is __you__. Others can guide you along the path to learning (by giving links to decent guides, for example), but the only person who can ultimately help you learn is yourself.  
+You have to really commit to learning to program, because - as I touch on later - if you don't want to learn to program, or you're just in it to make quick cash, you won't be able to learn as well as someone else who is learning for their love of programming, or their wish to create an application to cover certain requirements.
+
+## What library should I use to achieve X?
+It depends on your language, really!  
+A good place to start for this - as with anything, really - is [Google][google].
+Another great place is [GitHub][github]. Between these two, you should be able to cover anything.
+
+If you use Python, you're spoiled for choice! You can find a module for just about everything - seriously - on [PyPI](https://pypi.python.org/pypi). If it can be done, someone has probably made a module and put it up for download there.  
+If you use PHP, [GitHub][github] is one of the best places (in my opinion) to find projects to cover your needs. Do a search, filter to repos written in PHP and you're set!
+
+**********
 
 # General FAQs
 
