@@ -115,7 +115,7 @@ Some languages which people suggest frequently for new programmers are:
     * __Interpreted__,  so definitely not the fastest language out
     * Usable for just about anything, with similar libraries available as Python
     * Has an __amazing__ community available
-* [PHP](https://php.org)
+* [PHP](http://www.php.net)
     * Designed by a man who self-describes as a man who ["hates programming, but loves solving problems"](http://en.wikiquote.org/wiki/Rasmus_Lerdorf)
     * Wide support, since it's got interpreters out the wazoo for most web servers
     * Has lots of gotchas and caveats, as documented in [PHP: A fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) by [@eevee](https://github.com/eevee)
