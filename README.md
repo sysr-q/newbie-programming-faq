@@ -102,7 +102,7 @@ Some languages which people suggest frequently for new programmers are:
 
 * [Python](https://python.org)
     * A beautifully written all round language, which excels in scripting
-    * __Interpreted__, so definitely not the fastest language out
+    * __Interpreted__ via CPython, Jython, or another interpreter.
     * Usable for for just about anything:
         * Web projects (with `Flask`, `Django` or others)
         * Servers (with `Twisted`, `gevent` or others)
@@ -112,14 +112,14 @@ Some languages which people suggest frequently for new programmers are:
 * [Ruby](https://ruby-lang.org)
     * Designed to be human readable, which it definitely achieves
     * Easy to read, easy to write, easy to distribute and just a nice language to work in
-    * __Interpreted__,  so definitely not the fastest language out
+    * __Interpreted__ via the Ruby interpreter (`rb`)
     * Usable for just about anything, with similar libraries available as Python
     * Has an __amazing__ community available
 * [PHP](http://www.php.net)
     * Designed by a man who self-describes as a man who ["hates programming, but loves solving problems"](http://en.wikiquote.org/wiki/Rasmus_Lerdorf)
     * Wide support, since it's got interpreters out the wazoo for most web servers
     * Has lots of gotchas and caveats, as documented in [PHP: A fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) by [@eevee](https://github.com/eevee)
-    * __Interpreted__, so it's slow as all heck
+    * __Interpreted__ via a PHP interpreter, commonly Apache2's `mod_php`, or `php5-fastcgi`.
     * Probably a poor choice for a first language
     * Interfaces with HTTP quite well, since it's basically designed for web applications
     * Not really usable for anything but websites
@@ -127,13 +127,13 @@ Some languages which people suggest frequently for new programmers are:
 * [VB.net](http://msdn.microsoft.com/en-us/vstudio/hh388573.aspx)
     * Designed by Microsoft, specifically targeting the Windows operating system
     * Usable on other operating systems __sometimes__ via workarounds such as compat. layers like Wine or Mono.
-    * __Compiled to IL code__, so whilst fast, it's not Native Fast (TM). ([Source](http://stackoverflow.com/questions/6002955/visual-basic-net-compiled-or-interpreted))
+    * __Compiled to [IL code](http://stackoverflow.com/questions/6002955/visual-basic-net-compiled-or-interpreted)__, and is then JIT compiled to native code.
     * In my opinion, a poor choice for a first language
     * The community (in my opinion) is alright. Not as amazing as Python, not quite lackluster like PHP; somewhere in-between
 * [Java](http://docs.oracle.com/javase/tutorial/java/)
     * Object oriented to boot.
     * Comes with an amazing amount of getters and setters (whether you enjoy this is personal preference)
-    * __Interpreted__ by the JVM (Java Virtual Machine). It's not quite as slow as an interpreted language, but not quite as fast as a compiled language.
+    * __Compiled to Java bytecode__ before being __interpreted__ by the JVM (Java Virtual Machine).
     * Used in many enterprise level projects, so an understanding of it can't really hurt anyone.
     * The community around Java is fairly nice, and as per PHP, StackOverflow is a great place for Java things
 
