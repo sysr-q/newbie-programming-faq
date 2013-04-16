@@ -161,9 +161,9 @@ It takes time for a new idea, or an improvement over old projects to catch on, i
 * `IDE` - __Integrated Development Environment__
     * _An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger._ (from [Wikipedia][wikipedia])
     * Examples are: Eclipse, NetBeans, Cloud9, Visual Studio
-* `foo`, `bar`, `baz` - Placeholders for developers!
+* `foo`, `bar`, `baz` - __Placeholders for developers!__
     * These are just key words which are often used in code snippets, used as place holders. They signify things which should be replaced with actual variables to achieve whatever the purpose of the snippet is.
     * Sometimes they're variable names, sometimes they're string values, and sometimes they're aliens - well not really.
-* `regex` - Regular Expressions
+* `regex` - __Regular Expressions__
     * _A regular expression is a specific pattern that provides concise and flexible means to "match" (specify and recognize) strings of text, such as particular characters, words, or patterns of characters._ (from [Wikipedia][wikipedia])
     * Examples are: `^#([a-fA-F0-9]{3}|[a-fA-F0-9]{6})$`, `(?:[^/]+)/$`
